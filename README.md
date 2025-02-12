@@ -5,7 +5,7 @@ TCD Generator is a Python-based GUI application that allows users to generate Te
 
 ## Features
 - User-friendly **Tkinter GUI** for easy selection.
-- Supports **multiple configurations** (SOI, Encoder, Position, ASIC, Variant).
+- Supports **multiple configurations** 
 - Retrieves and **saves documentation files** based on user selection.
 - **Image display** support.
 - Error handling for missing files.
